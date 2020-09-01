@@ -14,4 +14,6 @@ We require three command line arguments and can supply two additional (optional)
 Navigate to the code directory and execute the following command:
 - python watermark_dataset.py --watermark ankitz007.png --input input --output
 Then, view the output images in the output directory.  
+![Sample image](https://i.imgur.com/38xqpwk.png)
+
 Cheers 🍻️
